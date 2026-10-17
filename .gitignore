@@ -1,0 +1,9 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.secrets/
+*.pem
+*.key
+.DS_Store
+Thumbs.db
